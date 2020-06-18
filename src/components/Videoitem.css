@@ -1,0 +1,15 @@
+.vitem
+{
+    display: flex !important;
+    align-items: center;
+    cursor: pointer;
+}
+
+.vitem img
+{
+    width: 168px;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
