@@ -19,7 +19,7 @@ class Searchbar extends React.Component {
                 <form className="ui form" onSubmit={this.onFormSubmit} >
                     <div className="field" style={{ display: "flex", justifyContent: "between", borderRadius: "0" }}>
                         <div style={{ display: "flex", alignItems: "center" }}>
-                            <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" style={{ width: "35px" }} />
+                            <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" style={{ width: "35px" }} alt="hello" />
                             <p id="para">YouTube</p>
                         </div>
                         <input
