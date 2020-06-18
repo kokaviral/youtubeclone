@@ -24,7 +24,7 @@ class Searchbar extends React.Component {
                         </div>
                         <input
                             type="text"
-                            placeholder="Search a video"
+                            placeholder="Search for Videos"
                             value={this.state.searchterm}
                             onChange={this.onInputChange}
                             style={{ width: "50%", borderRadius: "0", fontFamily: "font-family: 'Roboto', sans-serif;", marginLeft: "17%" }}
